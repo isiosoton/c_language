@@ -1,0 +1,3 @@
+kai        64
+inu        63
+null        0
